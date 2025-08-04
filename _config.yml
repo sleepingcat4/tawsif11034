@@ -22,11 +22,11 @@ footer_scripts:
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander Van de Kleut"
+title                    : "tawsif-software"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Alexander Van de Kleut"
-description              : "Personal website for research portfolio and ideas."
+subtitle                 : research software engineering and devops blog written by a researcher.
+name                     : "tawsif Am-mar"
+description              : "Software Engineering and Development blog"
 url                      : "https://avandekleut.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "avandekleut/avandekleut.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -99,26 +99,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander Van de Kleut"
+  name             : "tawsif Am-mar"
   avatar           : #"assets/config/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Showcasing fun ideas and projects in computer science and machine learning!"
   location         : "University of Waterloo"
-  email            : avandekleut@uwaterloo.ca
+  email            : tawsif1130@gmail.com
   home             : true
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/avandekleut"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/avandekleut/"
+      url: "https://github.com/sleepingcat4"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/avandekleut"
+      url: "https://github.com/sleepingcat4"
 
 # Reading Files
 include:
