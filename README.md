@@ -1,0 +1,1 @@
+It is a forked version of Alexander's blog that I have modified for my own software and research engineering blog. the blog is still under construction so you will still see some elements from Alexander but I will be updating this shortly.
