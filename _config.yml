@@ -101,8 +101,8 @@ analytics:
 author:
   name             : "tawsif Am-mar"
   avatar           : #"assets/config/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Showcasing fun ideas and projects in computer science and machine learning!"
-  location         : "University of Waterloo"
+  bio              : "Writing fun and interesting engineering problems and its solutions"
+  location         : "Sleeping AI"
   email            : tawsif1130@gmail.com
   home             : true
   links:
